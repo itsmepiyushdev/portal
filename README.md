@@ -27,6 +27,10 @@ npm i
 composer install
 ```
 
+### Generate key 
+
+``` php artisan key:generate ```
+
 ### Run migrations using
 
  ``` php artisan migrate ```
