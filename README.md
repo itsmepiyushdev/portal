@@ -6,7 +6,12 @@
 - Register
 - Login
 - Multilingual
- 
+
+## Multilingual
+ 1) English
+ 2) Marathi
+
+
 ## Installation
 
 Clone the repo using 
